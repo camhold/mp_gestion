@@ -7,7 +7,7 @@
     'version': '17.0.0.0.1',
     'depends': ['account', 'l10n_latam_invoice_document'],
     'data': [
-        #'security/mp_gestion_group.xml',
+        'security/mp_gestion_group.xml',
         'security/ir.model.access.csv',
         'views/account_move_views.xml',
     ],

@@ -5,7 +5,7 @@
         <field name="name">account.move.line.tree</field>
         <field name="model">account.move.line</field>
         <field name="arch" type="xml">
-            <tree string="Gestión" create="false>
+            <tree string="Gestión" create="false">
                 <field name="id" optional="hide"/>
                 <field name="date" string="Fecha contable"/>
                 <field name="vat" string="RUT"/>
